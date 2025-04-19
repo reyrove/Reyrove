@@ -52,7 +52,7 @@ Take a look at some of the magic I’m cooking up — and yeah, it’s gonna mak
 
 ## Contact Me (If You’re Bold Enough) 💬
 
-- Email: **reyrove@you-can-guess-it.com**
+- [Email](reyhanehdaneshdoost@gmail.com)
 - Socials: Find me everywhere (because I'm just that popular).
 
 ---
