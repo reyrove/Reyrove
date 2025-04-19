@@ -44,9 +44,9 @@ Take a peek at the wide variety of dazzling projects Rey has been creating, and 
 ## Follow the Magic ✨
 
 - [GitHub](https://github.com/reyrove/)
-- LinkedIn: [Rey’s Professional Glow-Up](https://www.linkedin.com/in/reyhaneh-daneshdoost-730481160)
-- X (formerly Twitter): [Rey’s Hot Takes](https://x.com/reyrove)
-- YouTube: [Rey’s Visual Adventures](https://www.youtube.com/@freyjafa)
+- [LinkedIn](https://www.linkedin.com/in/reyhaneh-daneshdoost-730481160)
+- [X (formerly Twitter)](https://x.com/reyrove)
+- [YouTube](https://www.youtube.com/@freyjafa)
 
 ---
 
