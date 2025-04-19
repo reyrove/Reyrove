@@ -31,7 +31,7 @@ Whether you're here for her mind-blowing **web dev skills**, mind-bending **gene
 
 Take a peek at the wide variety of dazzling projects Rey has been creating, and don’t be afraid to drool a little. 😜
 
-- **✨ Generative Art & NFTs**: Rey’s code is sexy, and so are her creations. Catch them on **fxhash**, **OpenSea**, and **ArtBlocks**. These aren’t just any NFTs, darling — they’re the future. 🚀
+- **✨ Generative Art & NFTs**: Rey’s code is sexy, and so are her creations. Catch them on **[fxhash](https://www.fxhash.xyz/)**, **[OpenSea](https://opensea.io/)**, and **[ArtBlocks](https://www.artblocks.io/)**. These aren’t just any NFTs, darling — they’re the future. 🚀
   
 - **💻 Web Development**: Need a website? Rey’s your girl. She’s mastered **JavaScript**, **HTML**, and **CSS** to create websites that aren’t just functional — they’re gorgeous. 💅
 
@@ -43,7 +43,7 @@ Take a peek at the wide variety of dazzling projects Rey has been creating, and 
 
 ## Follow the Magic ✨
 
-- GitHub: [Reyrove's Code Kingdom](https://github.com/reyrove/)
+- [GitHub](https://github.com/reyrove/)
 - LinkedIn: [Rey’s Professional Glow-Up](https://www.linkedin.com/in/reyhaneh-daneshdoost-730481160)
 - X (formerly Twitter): [Rey’s Hot Takes](https://x.com/reyrove)
 - YouTube: [Rey’s Visual Adventures](https://www.youtube.com/@freyjafa)
@@ -72,3 +72,4 @@ Don't just stand there. Explore, create, and watch as **Reyrove** takes over you
 ---
 
 _This is not just a portfolio, darling. It's a revolution._ ✨🔥
+
