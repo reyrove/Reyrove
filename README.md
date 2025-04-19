@@ -65,7 +65,4 @@ Think you can keep up? I *might* let you in on my next big project. I’m teamin
 
 ## Let’s Make Some Magic! 🔮
 
-Don’t just stand there. Explore, create, and let’s make some noise as **Reyrove** takes over your digital world, one line of code at a time. 💻✨
-
-This isn’t just a portfolio, darling. **It’s a revolution**. ✨🔥
-
+Don’t just stand there. Explore, create, and let’s make some noise as **Reyrove** takes over your digital world, one line of code at a time. 💻
