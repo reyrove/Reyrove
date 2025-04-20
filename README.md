@@ -59,31 +59,6 @@ Whether it’s **mind-bending generative art**, **sleek websites**, or **AI-powe
 
 ---
 
-## ⚙️ Installation
-
-> _If this is a repo with code you want people to use locally, add steps like below._
-
-```bash
-git clone https://github.com/reyrove/your-repo.git
-cd your-repo
-npm install
-npm start
-```
-
----
-
-## 🚀 Usage
-
-Explain how to use it:
-
-```js
-// Example usage
-import { magic } from 'reyrove';
-magic.createArt('✨');
-```
-
----
-
 ## 🤝 Contributing
 
 Wanna collab? I welcome pull requests, issues, and cool ideas.  
@@ -99,7 +74,10 @@ Make sure to:
 
 ## 📄 License
 
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License — which means it's **free to use, remix, and build upon**, even for commercial purposes.  
+
+> 🚨 **Just one thing**: **Give credit** where credit's due.  
+If you use my work, **mention "Reyrove"** somewhere in your project or documentation. That's all I ask. 💖  
 
 ---
 
