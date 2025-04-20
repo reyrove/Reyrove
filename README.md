@@ -74,7 +74,7 @@ Make sure to:
 
 ## 📄 License
 
-This project is licensed under the MIT License — which means it's **free to use, remix, and build upon**, even for commercial purposes.  
+This project is **free to use, remix, and build upon**, even for commercial purposes.  
 
 > 🚨 **Just one thing**: **Give credit** where credit's due.  
 If you use my work, **mention "Reyrove"** somewhere in your project or documentation. That's all I ask. 💖  
