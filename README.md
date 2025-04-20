@@ -1,10 +1,10 @@
-# 💗 REYROVE'S WORLD 💗
+# REYROVE'S WORLD
 _Where science, art, and tech collide in neon glory._
 
 ![GitHub followers](https://img.shields.io/github/followers/reyrove?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/reyrove?style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/reyrove?style=social)
-![Tech Badge](https://img.shields.io/badge/Made_with-Love_and_JavaScript-%23ff69b4)
+![Tech Badge](https://img.shields.io/badge/Made_with-Love-%23ff69b4)
 
 ---
 
