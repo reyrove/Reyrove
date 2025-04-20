@@ -1,47 +1,47 @@
-# 👑 Reyrove's World 🌐
+# <span style="color:#ff69b4; text-shadow: 0 0 5px #ff69b4, 0 0 10px #ff1493;">👑 Reyrove's World 🌐</span>
 
-Welcome to **Reyrove's World**, where science, art, and tech meet in a cosmic dance of creativity. 😎🚀
+Welcome to <span style="color:#ff69b4;">**Reyrove's World**</span>, where science, art, and tech meet in a cosmic dance of creativity. 😎🚀
 
 Ready to dive into the realms of **Textile Engineering**, **Generative Art**, **Web Development**, and **AI-driven Design**? Buckle up, darling — it's about to get wild. 
 
 ---
 
-## Who is Reyrove? 🤔
+## <span style="color:#ff69b4;">Who is Reyrove? 🤔</span>
 
-Let’s cut to the chase — **Rey** is not your average coder. 😏
+Let’s cut to the chase — <strong style="color:#ff69b4;">Rey</strong> is not your average coder. 😏
 
-- **Textile Engineer turned Web Sorceress** 🧵💻
-- **Generative Artist** who’s redefining the NFT game 🖼️
-- **AI Explorer** with a badass sidekick, **Sparrow Hawk** (don’t ask, just trust me) 🤖✨
-- **Code Ninja** who breaks things just to rebuild them better 💥🔧
+- <span style="color:#ff69b4;">**Textile Engineer turned Web Sorceress**</span> 🧵💻  
+- <span style="color:#ff69b4;">**Generative Artist** who’s redefining the NFT game</span> 🖼️  
+- <span style="color:#ff69b4;">**AI Explorer** with a badass sidekick, **Sparrow Hawk**</span> 🤖✨  
+- <span style="color:#ff69b4;">**Code Ninja** who breaks things just to rebuild them better</span> 💥🔧  
 
-From **Polymer Science** to **LAMMPS**, **FORTRAN**, and **Web3** tech, I make sure that every line of code is both sexy and genius.
+From **Polymer Science** to **LAMMPS**, **FORTRAN**, and **Web3** tech, every line of code is both sexy and genius.
 
 ---
 
-## Why Should You Care? 🤨
+## <span style="color:#ff69b4;">Why Should You Care? 🤨</span>
 
-Well, first off, if you’re reading this, congratulations — you’re already part of the cool club. 🍸
+If you’re reading this, congratulations — you’re already part of the cool club. 🍸
 
 Whether you’re here for my insane **web dev skills**, mind-bending **generative art**, or **AI-powered creations** that’ll make your brain twist, **Reyrove** is where raw talent meets unstoppable innovation.
 
 ---
 
-## What’s on the Menu? 🍽️
+## <span style="color:#ff69b4;">What’s on the Menu? 🍽️</span>
 
 Take a look at some of the magic I’m cooking up — and yeah, it’s gonna make you drool. 😜
 
-- **✨ Generative Art & NFTs**: My code isn’t just functional; it’s *art*. Check it out on **[fxhash](https://www.fxhash.xyz/)**, **[OpenSea](https://opensea.io/)**, and **[ArtBlocks](https://www.artblocks.io/)**. These aren’t just NFTs, they’re the future of art. 🚀
+- ✨ <strong style="color:#ff69b4;">Generative Art & NFTs</strong>: My code isn’t just functional; it’s *art*. Check it out on [fxhash](https://www.fxhash.xyz/), [OpenSea](https://opensea.io/), and [ArtBlocks](https://www.artblocks.io/). These aren’t just NFTs, they’re the future of art. 🚀
   
-- **💻 Web Development**: Need a website that’s sleek, functional, and just plain gorgeous? I’ve got you covered. From **JavaScript** to **HTML** and **CSS**, I craft digital experiences that’ll make you say *wow*. 💅
+- 💻 <strong style="color:#ff69b4;">Web Development</strong>: Need a website that’s sleek, functional, and just plain gorgeous? I’ve got you covered. From **JavaScript** to **HTML** and **CSS**, I craft digital experiences that’ll make you say *wow*. 💅
 
-- **📚 Educational Goodies**: Want to level up? Check out my **tutorials** on **FORTRAN**, **LaTeX**, and **JavaScript**. I’m here to teach you how to think like a genius. 
+- 📚 <strong style="color:#ff69b4;">Educational Goodies</strong>: Want to level up? Check out my **tutorials** on **FORTRAN**, **LaTeX**, and **JavaScript**. I’m here to teach you how to think like a genius. 
 
-- **🧪 Molecular Dynamics Simulations**: Into material science? My **LAMMPS simulations** are gonna blow your mind. Get ready to explore the molecular world like never before. 💥🔬
+- 🧪 <strong style="color:#ff69b4;">Molecular Dynamics Simulations</strong>: Into material science? My **LAMMPS simulations** are gonna blow your mind. Get ready to explore the molecular world like never before. 💥🔬
 
 ---
 
-## Follow the Magic ✨
+## <span style="color:#ff69b4;">Follow the Magic ✨</span>
 
 - [GitHub](https://github.com/reyrove/)
 - [LinkedIn](https://www.linkedin.com/in/reyhaneh-daneshdoost-730481160)
@@ -50,12 +50,11 @@ Take a look at some of the magic I’m cooking up — and yeah, it’s gonna mak
 
 ---
 
-## Contact Me (If You’re Bold Enough) 💬
+## <span style="color:#ff69b4;">Contact Me (If You’re Bold Enough) 💬</span>
 
-- [Email](reyhanehdaneshdoost@gmail.com)
+- 📧 [Email](mailto:reyhanehdaneshdoost@gmail.com)  
 - Socials: Find me everywhere (because I'm just that popular).
 
----
 
 ## Wanna Collaborate? 🎤
 
