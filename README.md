@@ -2,7 +2,7 @@
 _Where science, art, and tech collide in neon glory._
 
 ![GitHub followers](https://img.shields.io/github/followers/reyrove?style=social)
-![GitHub stars](https://github/stars/reyrove?style=social)
+![GitHub stars](https://img.shields.iogithub/stars/reyrove?style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/reyrove?style=social)
 ![Tech Badge](https://img.shields.io/badge/Made_with-Love-%23ff69b4)
 
