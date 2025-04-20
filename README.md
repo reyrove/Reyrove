@@ -13,8 +13,6 @@ _Where science, art, and tech collide in neon glory._
 - [Who is Reyrove?](#-who-is-reyrove)
 - [Why Should You Care?](#-why-should-you-care)
 - [What’s on the Menu?](#-whats-on-the-menu)
-- [Installation](#-installation)
-- [Usage](#-usage)
 - [Contributing](#-contributing)
 - [License](#-license)
 - [Contact](#-contact)
