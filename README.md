@@ -1,4 +1,4 @@
-# 👑 REYROVE'S WORLD 💗
+# 💗 REYROVE'S WORLD 💗
 _Where science, art, and tech collide in neon glory._
 
 ![GitHub followers](https://img.shields.io/github/followers/reyrove?style=social)
@@ -97,5 +97,5 @@ If you use my work, **mention "Reyrove"** somewhere in your project or documenta
 
 ---
 
-> _“Code is my spellbook. Creativity is my wand.” — Reyrove 🪄_
+> _“Code is my spellbook. Creativity is my wand.” — Reyrove 💗_
 
