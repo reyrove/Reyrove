@@ -1,4 +1,6 @@
-# REYROVE'S WORLD 💖
+# 👑 REYROVE'S WORLD 🌐💖  
+_Where science, art, and tech collide in neon glory._
+
 _Where science, art, and tech collide in neon glory._
 
 ![GitHub followers](https://img.shields.io/github/followers/reyrove?style=social)
