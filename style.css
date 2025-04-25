@@ -238,6 +238,32 @@ nav ul li a:hover {
     line-height: 1.8;
     text-align: justify;
   }
+
+.cv-download {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.cv-download .cta-button {
+    display: inline-block;
+    background-color: #d11aa0;
+    color: #fff;
+    padding: 12px 24px;
+    border-radius: 30px;
+    font-weight: bold;
+    text-decoration: none;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+    box-shadow: 0 5px 15px rgba(255, 95, 95, 0.3);
+}
+
+.cv-download .cta-button:hover {
+    background-color: #b731a5;
+    transform: translateY(-2px);
+}
+
+.cv-download .cta-button i {
+    margin-right: 8px;
+}
   
   .roadmap {
     position: relative;
