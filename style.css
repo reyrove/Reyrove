@@ -34,7 +34,7 @@ nav {
     justify-content: space-between;
     align-items: center;
     padding: 20px 40px;
-    background-color: #000000;
+    background-color: #000;
     position: sticky;
     top: 0;
     z-index: 999;  
@@ -70,25 +70,27 @@ nav ul li a {
 nav ul li a:hover {
     color: #ff00ff;
     text-shadow: 0 0 10px #ff00ff, 0 0 20px #ff00ff;
-    
-
 }
 
+/* HIDE the menu-toggle button by default */
+.menu-toggle {
+    display: none;
+    font-size: 28px;
+    color: #ff00ff;
+    cursor: pointer;
+}
+
+/* Responsive for tablets */
 @media (max-width: 768px) {
     nav {
         padding: 15px 20px; 
-        justify-content: center; 
     }
 
     nav .logo {
         font-size: 25px; 
-        margin-right: 20px; 
     }
 
     nav ul {
-        display: flex;
-        justify-content: center;
-        align-items: center;
         margin-top: 10px;
     }
 
@@ -101,20 +103,29 @@ nav ul li a:hover {
     }
 }
 
+/* Responsive for mobile phones */
 @media (max-width: 480px) {
     nav {
         padding: 10px 15px; 
     }
 
-    nav .logo {
-        font-size: 20px; 
+    .menu-toggle {
+        display: block; /* Show the hamburger icon */
     }
 
     nav ul {
-        display: flex;
-        flex-direction: column; 
+        position: absolute;
+        top: 70px;
+        left: 0;
+        right: 0;
+        background: #000;
+        flex-direction: column;
         align-items: center;
-        margin-top: 10px;
+        display: none; /* Hide menu initially */
+    }
+
+    nav ul.show {
+        display: flex; /* Show when menu-toggle is active */
     }
 
     nav ul li {
@@ -239,7 +250,7 @@ nav ul li a:hover {
     text-align: justify;
   }
 
-.cv-download {
+  .cv-download {
     margin-top: 20px;
     text-align: center;
 }
@@ -264,7 +275,7 @@ nav ul li a:hover {
 .cv-download .cta-button i {
     margin-right: 8px;
 }
-  
+ 
   .roadmap {
     position: relative;
     margin: 0 auto;
@@ -770,5 +781,6 @@ nav ul li a:hover {
     color: #ff9900;
     text-shadow: 0 0 15px rgba(255, 153, 0, 0.7), 0 0 30px rgba(255, 102, 0, 0.7);
 }
+
 
 
