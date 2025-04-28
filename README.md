@@ -14,8 +14,7 @@
   <a href="#-why-choose-reyrove">Why Choose Reyrove?</a> • 
   <a href="#-portfolio-highlights">Portfolio Highlights</a> • 
   <a href="#-collaboration">Collaboration</a> • 
-  <a href="#-license">License</a> • 
-  <a href="#-contact">Contact</a> • 
+  <a href="#-license">License</a> |
   <a href="#-stay-connected">Stay Connected</a>
 </p>
 
