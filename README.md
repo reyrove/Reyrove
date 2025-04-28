@@ -128,21 +128,26 @@ Feel free to reach out for collaborations, commissions, or inquiries.
 
 <p align="center">
   <a href="https://github.com/reyrove">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+<h2 align="center">✨ Stay Connected</h2>
+
+<p align="center">
+  <a href="https://github.com/reyrove" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40">
   </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/reyhaneh-daneshdoost-730481160">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/reyhaneh-daneshdoost-730481160" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40">
   </a>
-  &nbsp;
-  <a href="https://x.com/reyrove">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="X (Twitter)">
+  &nbsp;&nbsp;
+  <a href="https://x.com/reyrove" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023.svg" alt="X (Twitter)" width="40" height="40">
   </a>
-  &nbsp;
-  <a href="https://www.youtube.com/@freyjafa">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+  &nbsp;&nbsp;
+  <a href="https://www.youtube.com/@freyjafa" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/youtube.svg" alt="YouTube" width="40" height="40">
   </a>
 </p>
+
 
 
 ---
