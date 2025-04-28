@@ -1,5 +1,6 @@
-# 👑 REYROVE'S WORLD 💗  
+<p align="center"> # 👑 REYROVE'S WORLD 💗  
 _Where science, art, and tech collide in neon glory._
+</p>
 
 <p align="center">
   <img src="images/Reyrove-QR.png" alt="Reyrove's Portfolio QR Code" width="220" height="220">
