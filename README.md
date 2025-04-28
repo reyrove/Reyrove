@@ -122,9 +122,8 @@ Or stalk me like a proper fan across social media 🔍
 
 ---
 
-## ✨ FOLLOW THE MAGIC
+<h2>✨ FOLLOW THE MAGIC</h2>
 
-<p align="center">
   <a href="https://github.com/reyrove">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
@@ -137,8 +136,6 @@ Or stalk me like a proper fan across social media 🔍
   <a href="https://www.youtube.com/@freyjafa">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
   </a>
-</p>
-
   
 ---
 
