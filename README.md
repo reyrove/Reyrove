@@ -1,5 +1,6 @@
-<p align="center"> # 👑 REYROVE'S WORLD 💗  
-_Where science, art, and tech collide in neon glory._
+<p align="center"> # 👑 REYROVE'S WORLD 💗  </p>
+
+<p align="center"> _Where science, art, and tech collide in neon glory._
 </p>
 
 <p align="center">
