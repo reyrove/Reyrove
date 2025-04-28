@@ -1,10 +1,10 @@
 <h1 align="center">REYROVE'S WORLD</h1>
 
-<p align="center"><em>Where science, art, and tech collide in neon glory.</em></p>
+<p align="center"><em>Where science, technology, and art converge in vibrant innovation.</em></p>
 
 <p align="center">
   <img src="images/QR-code.png" alt="Reyrove's Portfolio QR Code" width="220" height="220"><br>
-  <i>✨ Scan to jump straight into Reyrove’s neon universe ✨</i>
+  <i>Scan to explore Reyrove’s creative universe.</i>
 </p>
 
 <p align="center">
@@ -20,110 +20,113 @@
 
 <p align="center">
   <a href="#-who-is-reyrove">Who is Reyrove?</a> • 
-  <a href="#-why-should-you-care">Why Should You Care?</a> • 
-  <a href="#-whats-on-the-menu">What’s on the Menu?</a> • 
-  <a href="#-contributing">Contributing</a> • 
+  <a href="#-why-choose-reyrove">Why Choose Reyrove?</a> • 
+  <a href="#-portfolio-highlights">Portfolio Highlights</a> • 
+  <a href="#-collaboration">Collaboration</a> • 
   <a href="#-license">License</a> • 
   <a href="#-contact">Contact</a> • 
-  <a href="#-follow-the-magic">Follow the Magic</a>
+  <a href="#-stay-connected">Stay Connected</a>
 </p>
 
 ---
 
-<h2>🤔 WHO IS REYROVE?</h2>
+<h2>🤔 Who is Reyrove?</h2>
 
 <p>
-Let’s cut to the chase — <strong>Rey</strong> is not your average coder. 😏
+<strong>Reyrove</strong> is a dynamic innovator — blending engineering precision with creative artistry.
 </p>
 
 <ul>
-  <li>🧵💻 Textile Engineer turned Web Sorceress</li>
-  <li>🖼️ Generative Artist redefining the NFT game</li>
-  <li>🤖✨ AI Explorer with a badass sidekick, <em>Sparrow Hawk</em></li>
-  <li>💥🔧 Code Ninja who breaks things just to rebuild them better</li>
+  <li>🧵💻 Former Textile Engineer turned Full-Stack Developer</li>
+  <li>🖼️ Generative Artist redefining digital art and NFTs</li>
+  <li>🤖✨ AI Enthusiast with a creative companion, <em>Sparrow Hawk</em></li>
+  <li>💥🔧 Software Engineer focused on innovation and resilience</li>
 </ul>
 
 <p>
-From <strong>Polymer Science</strong> to <strong>LAMMPS</strong>, <strong>FORTRAN</strong>, and <strong>Web3</strong>, every line of code is both sexy and genius.
+With expertise spanning <strong>Polymer Science</strong>, <strong>Molecular Dynamics (LAMMPS)</strong>, <strong>FORTRAN</strong>, and <strong>Web3 technologies</strong>, Reyrove approaches each project with a blend of technical rigor and artistic flair.
 </p>
 
 ---
 
-<h2>🤨 WHY SHOULD YOU CARE?</h2>
+<h2>🤨 Why Choose Reyrove?</h2>
 
 <p>
-If you’re reading this, congratulations — you’re already part of the cool club. 🍸
+Innovation meets impact. Whether you’re seeking <strong>next-generation generative art</strong>, <strong>high-performance web solutions</strong>, or <strong>cutting-edge AI integrations</strong>, Reyrove delivers work that stands out.
 </p>
 
 <p>
-Whether it’s <strong>mind-bending generative art</strong>, <strong>sleek websites</strong>, or <strong>AI-powered creations</strong>,<br>
-<strong>Reyrove = innovation with edge</strong>.
+If you value <strong>creativity, technical excellence, and forward-thinking design</strong> — you're in the right place.
 </p>
 
 ---
 
-<h2>🍽️ WHAT’S ON THE MENU?</h2>
+<h2>🍽️ Portfolio Highlights</h2>
 
 <ul>
   <li>✨ <strong>Generative Art & NFTs</strong><br>
-  Check me out on <a href="https://www.fxhash.xyz/">fxhash</a>, <a href="https://opensea.io/">OpenSea</a>, and <a href="https://www.artblocks.io/">ArtBlocks</a></li><br>
+  Explore collections on <a href="https://www.fxhash.xyz/">fxhash</a>, <a href="https://opensea.io/">OpenSea</a>, and <a href="https://www.artblocks.io/">ArtBlocks</a>.</li><br>
 
   <li>💻 <strong>Web Development</strong><br>
-  Gorgeous, responsive, accessible, optimized — JavaScript, HTML, CSS, React, you name it.</li><br>
+  Building fast, accessible, and elegant applications using JavaScript, HTML, CSS, and React.</li><br>
 
-  <li>📚 <strong>Educational Goodies</strong><br>
-  Tutorials on <strong>FORTRAN</strong>, <strong>LaTeX</strong>, <strong>JavaScript</strong>, and more.</li><br>
+  <li>📚 <strong>Educational Content</strong><br>
+  Tutorials and insights on <strong>FORTRAN</strong>, <strong>LaTeX</strong>, <strong>JavaScript</strong>, and more.</li><br>
 
   <li>🧪 <strong>Molecular Dynamics Simulations</strong><br>
-  Deep-dive into <strong>LAMMPS</strong> magic — real-time modeling, atomistic precision.</li>
+  Advanced modeling and simulations with <strong>LAMMPS</strong> — pushing the boundaries of material science.</li>
 </ul>
 
 ---
 
-<h2>🤝 CONTRIBUTING</h2>
+<h2>🤝 Collaboration</h2>
 
 <p>
-Wanna collab? I welcome pull requests, issues, and cool ideas.<br><br>
-Make sure to:
+Open to contributions, ideas, and collaborations! If you’d like to enhance the project, here’s how:
 </p>
 
 <ol>
-  <li>Fork this repo 🍴</li>
-  <li>Create your feature branch (<code>git checkout -b feature/neon-enhance</code>)</li>
-  <li>Commit your changes (<code>git commit -m 'Add some sparkle ✨'</code>)</li>
-  <li>Push to the branch (<code>git push origin feature/neon-enhance</code>)</li>
-  <li>Open a Pull Request 👯</li>
+  <li>Fork the repository 🍴</li>
+  <li>Create a new branch (<code>git checkout -b feature/your-feature-name</code>)</li>
+  <li>Commit your changes (<code>git commit -m "Describe your update"</code>)</li>
+  <li>Push to your branch (<code>git push origin feature/your-feature-name</code>)</li>
+  <li>Open a Pull Request 🚀</li>
 </ol>
 
 <p>
-Let’s build something wild together.
+Let's build something extraordinary together.
 </p>
 
 ---
 
-<h2>📄 LICENSE</h2>
+<h2>📄 License</h2>
 
 <p>
-This project is <strong>free to use, remix, and build upon</strong>, even for commercial purposes.<br><br>
-
-🚨 <strong>Just one thing</strong>: <em>Give credit</em> where credit's due.<br>
-If you use my work, <strong>mention "Reyrove"</strong> somewhere in your project or documentation.<br>
-That's all I ask. 💖
+This project is open for use, modification, and commercialization — with one simple request:
 </p>
-
----
-
-<h2>💬 CONTACT</h2>
 
 <p>
-📧 <a href="mailto:reyhanehdaneshdoost@gmail.com">Email me</a><br>
-Or stalk me like a proper fan across social media 🔍
+<strong>Kindly credit "Reyrove" in your project or documentation.</strong> 
+</p>
+
+<p>
+Thank you for supporting open innovation! 💖
 </p>
 
 ---
 
-<h2>✨ FOLLOW THE MAGIC</h2>
+<h2>💬 Contact</h2>
 
+<p>
+📧 <a href="mailto:reyhanehdaneshdoost@gmail.com">reyhanehdaneshdoost@gmail.com</a><br>
+Feel free to reach out for collaborations, commissions, or inquiries.
+</p>
+
+---
+
+<h2>✨ Stay Connected</h2>
+
+<p align="center">
   <a href="https://github.com/reyrove">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
@@ -136,9 +139,10 @@ Or stalk me like a proper fan across social media 🔍
   <a href="https://www.youtube.com/@freyjafa">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
   </a>
-  
+</p>
+
 ---
 
-<p>
-  <em>“Code is my spellbook. Creativity is my wand.” — Reyrove 💗</em>
+<p align="center">
+  <em>"Creativity fuels innovation. Code is the canvas." — Reyrove</em>
 </p>
