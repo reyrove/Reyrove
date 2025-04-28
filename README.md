@@ -97,8 +97,6 @@ Open to contributions, ideas, and collaborations! If you’d like to enhance the
 Let's build something extraordinary together.
 </p>
 
----
-
 <h2>📄 License</h2>
 
 <p>
@@ -113,8 +111,6 @@ This project is open for use, modification, and commercialization — with one s
 Thank you for supporting open innovation! 💖
 </p>
 
----
-
 <h2 align="center">✨ Stay Connected</h2>
 
 <p align="center">
@@ -124,8 +120,6 @@ Thank you for supporting open innovation! 💖
    <img src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white&style=flat" alt="X">
    <img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=flat" alt="YouTube">
 </p>
-
----
 
 <p align="center">
   <em>"Creativity fuels innovation. Code is the canvas." — Reyrove</em>
