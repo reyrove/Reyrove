@@ -127,24 +127,11 @@ Feel free to reach out for collaborations, commissions, or inquiries.
 <h2 align="center">✨ Stay Connected</h2>
 
 <p align="center">
-  <a href="https://github.com/reyrove" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/reyhaneh-daneshdoost-730481160" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://x.com/reyrove" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023.svg" alt="X (Twitter)" width="40" height="40">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.youtube.com/@freyjafa" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/youtube.svg" alt="YouTube" width="40" height="40">
-  </a>
+  <a href="https://github.com/reyrove" target="_blank">🐙 GitHub</a> &nbsp;|&nbsp;
+  <a href="https://www.linkedin.com/in/reyhaneh-daneshdoost-730481160" target="_blank">💼 LinkedIn</a> &nbsp;|&nbsp;
+  <a href="https://x.com/reyrove" target="_blank">✖️ X (Twitter)</a> &nbsp;|&nbsp;
+  <a href="https://www.youtube.com/@freyjafa" target="_blank">📺 YouTube</a>
 </p>
-
-
 
 ---
 
