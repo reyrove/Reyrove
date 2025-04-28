@@ -1,12 +1,13 @@
-Absolutely — I love the energy you're bringing!  
-Let's integrate your QR code into the README in a **professional, sassy, and elegant** way, matching your style.
-
-Here’s an updated version of the README section with your QR code embedded:
-
----
-
 # 👑 REYROVE'S WORLD 💗  
 _Where science, art, and tech collide in neon glory._
+
+<p align="center">
+  <img src="images/Reyrove-QR.png" alt="Reyrove's Portfolio QR Code" width="220" height="220">
+</p>
+
+<p align="center">
+  <i>✨ Scan to jump straight into Reyrove’s neon universe ✨</i>
+</p>
 
 ![GitHub followers](https://img.shields.io/github/followers/reyrove?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/reyrove?style=social)
@@ -20,7 +21,6 @@ _Where science, art, and tech collide in neon glory._
 - [Who is Reyrove?](#-who-is-reyrove)
 - [Why Should You Care?](#-why-should-you-care)
 - [What’s on the Menu?](#-whats-on-the-menu)
-- [Scan the Magic ✨ (QR Code)](#-scan-the-magic-qr-code)
 - [Contributing](#-contributing)
 - [License](#-license)
 - [Contact](#-contact)
@@ -45,7 +45,8 @@ From **Polymer Science** to **LAMMPS**, **FORTRAN**, and **Web3**, every line of
 
 If you’re reading this, congratulations — you’re already part of the cool club. 🍸
 
-Whether it’s **mind-bending generative art**, **sleek websites**, or **AI-powered creations**, Reyrove = innovation with edge.
+Whether it’s **mind-bending generative art**, **sleek websites**, or **AI-powered creations**,  
+**Reyrove = innovation with edge**.
 
 ---
 
@@ -65,19 +66,7 @@ Whether it’s **mind-bending generative art**, **sleek websites**, or **AI-powe
 
 ---
 
-## 📸 Scan the Magic ✨ (QR Code)
-
-Feeling fancy? Scan my QR code and dive straight into my world — no spells needed. 🪄📱
-
-<p align="center">
-  <img src="images/Reyrove-QR.png" alt="Reyrove's Portfolio QR Code" width="250" height="250">
-</p>
-
-> _“Because who has time for typing URLs? ✨”_
-
----
-
-## 🤝 Contributing
+## 🤝 CONTRIBUTING
 
 Wanna collab? I welcome pull requests, issues, and cool ideas.  
 Make sure to:
@@ -88,25 +77,27 @@ Make sure to:
 4. Push to the branch (`git push origin feature/neon-enhance`)  
 5. Open a Pull Request 👯
 
+Let’s build something wild together.
+
 ---
 
-## 📄 License
+## 📄 LICENSE
 
 This project is **free to use, remix, and build upon**, even for commercial purposes.  
 
 > 🚨 **Just one thing**: **Give credit** where credit's due.  
-If you use my work, **mention "Reyrove"** somewhere in your project or documentation. That's all I ask. 💖  
+If you use my work, **mention "Reyrove"** somewhere in your project or documentation. That's all I ask. 💖
 
 ---
 
-## 💬 Contact
+## 💬 CONTACT
 
 - 📧 [Email me](mailto:reyhanehdaneshdoost@gmail.com)  
 - Or stalk me like a proper fan across social media 🔍
 
 ---
 
-## ✨ Follow the Magic
+## ✨ FOLLOW THE MAGIC
 
 - [GitHub](https://github.com/reyrove/)
 - [LinkedIn](https://www.linkedin.com/in/reyhaneh-daneshdoost-730481160)
