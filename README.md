@@ -7,6 +7,7 @@
   <i>Scan to explore Reyrove’s creative universe.</i>
 </p>
 
+
 <h2 align="center">📚 Table of Contents</h2>
 
 <p align="center">
