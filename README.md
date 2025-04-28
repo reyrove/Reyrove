@@ -18,7 +18,6 @@
   <a href="#stay-connected">Stay Connected</a>
 </p>
 
----
 
 ## <h2 id="who-is-reyrove">🤔 Who is Reyrove?</h2>
 
@@ -35,7 +34,6 @@
 Armed with deep expertise in <strong>Polymer Science</strong>, <strong>Molecular Dynamics (LAMMPS)</strong>, <strong>FORTRAN</strong>, and <strong>Web3 technologies</strong>, Reyrove approaches each project with a unique blend of technical mastery and creative vision.
 </p>
 
----
 
 ## <h2 id="why-choose-reyrove">🤨 Why Choose Reyrove?</h2>
 
@@ -47,7 +45,6 @@ When innovation meets impact, magic happens. Whether you seek <strong>next-gener
 If you value <strong>creativity, technical excellence, and future-forward thinking</strong> — you're exactly where you should be.
 </p>
 
----
 
 ## <h2 id="portfolio-highlights">🍽️ Portfolio Highlights</h2>
 
@@ -65,7 +62,6 @@ If you value <strong>creativity, technical excellence, and future-forward thinki
   Advanced modeling and simulations using <strong>LAMMPS</strong> — pushing the limits of material science innovation.</li>
 </ul>
 
----
 
 ## <h2 id="collaboration">🤝 Collaboration</h2>
 
@@ -85,7 +81,6 @@ Excited to collaborate! Whether you're bringing ideas, feedback, or new initiati
 Let’s build something extraordinary together.
 </p>
 
----
 
 ## <h2 id="license">📄 License</h2>
 
@@ -101,7 +96,6 @@ This project is open for use, modification, and commercialization — with just 
 Thank you for supporting open innovation and creative freedom! 💖
 </p>
 
----
 
 ## <h2 id="stay-connected" align="center">✨ Stay Connected</h2>
 
