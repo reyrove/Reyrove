@@ -9,10 +9,12 @@ _Where science, art, and tech collide in neon glory._
   <i>✨ Scan to jump straight into Reyrove’s neon universe ✨</i>
 </p>
 
-![GitHub followers](https://img.shields.io/github/followers/reyrove?style=social)
-![GitHub stars](https://img.shields.io/github/stars/reyrove?style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/reyrove?style=social)
-![Tech Badge](https://img.shields.io/badge/Made_with-Love-%23ff69b4)
+<p align="center">
+  <img src="https://img.shields.io/github/followers/reyrove?style=social" alt="GitHub followers">
+  <img src="https://img.shields.io/github/stars/reyrove?style=social" alt="GitHub stars">
+  <img src="https://img.shields.io/twitter/follow/reyrove?style=social" alt="Twitter Follow">
+  <img src="https://img.shields.io/badge/Made_with-Love-%23ff69b4" alt="Tech Badge">
+</p>
 
 ---
 
