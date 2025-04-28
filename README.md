@@ -101,22 +101,23 @@ Thank you for supporting open innovation! 💖
 <h2 align="center">✨ Stay Connected</h2>
 
 <p align="center">
-   <a href="mailto:reyhanehdaneshdoost@gmail.com">
+   <a href="mailto:reyhanehdaneshdoost@gmail.com" style="text-decoration: none;">
       <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat" alt="Email">
    </a>
-   <a href="https://github.com/reyrove">
+   <a href="https://github.com/reyrove" style="text-decoration: none;">
       <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat" alt="GitHub">
    </a>
-   <a href="https://www.linkedin.com/in/reyhaneh-daneshdoost-730481160/">
+   <a href="https://www.linkedin.com/in/reyhaneh-daneshdoost-730481160/" style="text-decoration: none;">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat" alt="LinkedIn">
    </a>
-   <a href="https://x.com/reyrove">
+   <a href="https://x.com/reyrove" style="text-decoration: none;">
       <img src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white&style=flat" alt="X (Twitter)">
    </a>
-   <a href="https://www.youtube.com/@freyjafa">
+   <a href="https://www.youtube.com/@freyjafa" style="text-decoration: none;">
       <img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=flat" alt="YouTube">
    </a>
 </p>
+
 
 
 <p align="center">
