@@ -141,6 +141,12 @@ Feel free to reach out for collaborations, commissions, or inquiries.
   </a>
 </p>
 
+<style>
+  .social-links a {
+    text-decoration: none; /* Remove blue lines (underlines) */
+  }
+</style>
+
 ---
 
 <p align="center">
