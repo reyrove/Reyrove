@@ -6,8 +6,6 @@
   <img src="images/QR-code.png" alt="Reyrove's Portfolio QR Code" width="220" height="220"><br>
   <i>Scan to explore Reyrove’s creative universe.</i>
 </p>
-
- ---
  
 <h2 align="center">📚 Table of Contents</h2>
 
@@ -21,6 +19,7 @@
   <a href="#-stay-connected">Stay Connected</a>
 </p>
 
+---
 
 <h2>🤔 Who is Reyrove?</h2>
 
