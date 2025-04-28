@@ -1,4 +1,4 @@
-<h1 align="center">👑 REYROVE'S WORLD 💗</h1>
+<h1 align="center">REYROVE'S WORLD</h1>
 
 <p align="center"><em>Where science, art, and tech collide in neon glory.</em></p>
 
