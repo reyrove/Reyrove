@@ -30,41 +30,41 @@
 
 ---
 
-<h2 align="center">🤔 WHO IS REYROVE?</h2>
+<h2>🤔 WHO IS REYROVE?</h2>
 
-<p align="center">
+<p>
 Let’s cut to the chase — <strong>Rey</strong> is not your average coder. 😏
 </p>
 
-<ul align="center">
+<ul>
   <li>🧵💻 Textile Engineer turned Web Sorceress</li>
   <li>🖼️ Generative Artist redefining the NFT game</li>
   <li>🤖✨ AI Explorer with a badass sidekick, <em>Sparrow Hawk</em></li>
   <li>💥🔧 Code Ninja who breaks things just to rebuild them better</li>
 </ul>
 
-<p align="center">
+<p>
 From <strong>Polymer Science</strong> to <strong>LAMMPS</strong>, <strong>FORTRAN</strong>, and <strong>Web3</strong>, every line of code is both sexy and genius.
 </p>
 
 ---
 
-<h2 align="center">🤨 WHY SHOULD YOU CARE?</h2>
+<h2>🤨 WHY SHOULD YOU CARE?</h2>
 
-<p align="center">
+<p>
 If you’re reading this, congratulations — you’re already part of the cool club. 🍸
 </p>
 
-<p align="center">
+<p>
 Whether it’s <strong>mind-bending generative art</strong>, <strong>sleek websites</strong>, or <strong>AI-powered creations</strong>,<br>
 <strong>Reyrove = innovation with edge</strong>.
 </p>
 
 ---
 
-<h2 align="center">🍽️ WHAT’S ON THE MENU?</h2>
+<h2>🍽️ WHAT’S ON THE MENU?</h2>
 
-<ul align="center">
+<ul>
   <li>✨ <strong>Generative Art & NFTs</strong><br>
   Check me out on <a href="https://www.fxhash.xyz/">fxhash</a>, <a href="https://opensea.io/">OpenSea</a>, and <a href="https://www.artblocks.io/">ArtBlocks</a></li><br>
 
@@ -80,14 +80,14 @@ Whether it’s <strong>mind-bending generative art</strong>, <strong>sleek websi
 
 ---
 
-<h2 align="center">🤝 CONTRIBUTING</h2>
+<h2>🤝 CONTRIBUTING</h2>
 
-<p align="center">
+<p>
 Wanna collab? I welcome pull requests, issues, and cool ideas.<br><br>
 Make sure to:
 </p>
 
-<ol align="center">
+<ol>
   <li>Fork this repo 🍴</li>
   <li>Create your feature branch (<code>git checkout -b feature/neon-enhance</code>)</li>
   <li>Commit your changes (<code>git commit -m 'Add some sparkle ✨'</code>)</li>
@@ -95,15 +95,15 @@ Make sure to:
   <li>Open a Pull Request 👯</li>
 </ol>
 
-<p align="center">
+<p>
 Let’s build something wild together.
 </p>
 
 ---
 
-<h2 align="center">📄 LICENSE</h2>
+<h2>📄 LICENSE</h2>
 
-<p align="center">
+<p>
 This project is <strong>free to use, remix, and build upon</strong>, even for commercial purposes.<br><br>
 
 🚨 <strong>Just one thing</strong>: <em>Give credit</em> where credit's due.<br>
@@ -113,18 +113,18 @@ That's all I ask. 💖
 
 ---
 
-<h2 align="center">💬 CONTACT</h2>
+<h2>💬 CONTACT</h2>
 
-<p align="center">
+<p>
 📧 <a href="mailto:reyhanehdaneshdoost@gmail.com">Email me</a><br>
 Or stalk me like a proper fan across social media 🔍
 </p>
 
 ---
 
-<h2 align="center">✨ FOLLOW THE MAGIC</h2>
+<h2>✨ FOLLOW THE MAGIC</h2>
 
-<p align="center">
+<p>
   <a href="https://github.com/reyrove/">GitHub</a> • 
   <a href="https://www.linkedin.com/in/reyhaneh-daneshdoost-730481160">LinkedIn</a> • 
   <a href="https://x.com/reyrove">X (Twitter)</a> • 
@@ -133,6 +133,6 @@ Or stalk me like a proper fan across social media 🔍
 
 ---
 
-<p align="center">
+<p>
   <em>“Code is my spellbook. Creativity is my wand.” — Reyrove 💗</em>
 </p>
