@@ -70,7 +70,7 @@ Whether it’s **mind-bending generative art**, **sleek websites**, or **AI-powe
 Feeling fancy? Scan my QR code and dive straight into my world — no spells needed. 🪄📱
 
 <p align="center">
-  <img src="images/your-qrcode-file-name.png" alt="Reyrove's Portfolio QR Code" width="250" height="250">
+  <img src="./images/Reyrove-QR.png" alt="Reyrove's Portfolio QR Code" width="250" height="250">
 </p>
 
 > _“Because who has time for typing URLs? ✨”_
