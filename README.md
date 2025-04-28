@@ -118,9 +118,11 @@ Thank you for supporting open innovation! 💖
 <h2>💬 Contact</h2>
 
 <p>
-📧 <a href="mailto:reyhanehdaneshdoost@gmail.com">reyhanehdaneshdoost@gmail.com</a><br>
+<i class="fas fa-envelope"></i> 
+<a href="mailto:reyhanehdaneshdoost@gmail.com">reyhanehdaneshdoost@gmail.com</a><br>
 Feel free to reach out for collaborations, commissions, or inquiries.
 </p>
+
 
 ---
 
