@@ -128,12 +128,24 @@ Feel free to reach out for collaborations, commissions, or inquiries.
 
 <h2 align="center">✨ Stay Connected</h2>
 
-  <p align="center">
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat" alt="GitHub">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat" alt="LinkedIn">
-  <img src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white&style=flat" alt="X">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=flat" alt="YouTube">  
-  </p>
+<p align="center">
+  <a href="mailto:reyhanehdaneshdoost@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat" alt="Email">
+  </a>
+  <a href="https://github.com/yourusername">
+    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat" alt="GitHub">
+  </a>
+  <a href="https://linkedin.com/in/yourusername">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat" alt="LinkedIn">
+  </a>
+  <a href="https://x.com/yourusername">
+    <img src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white&style=flat" alt="X">
+  </a>
+  <a href="https://youtube.com/@yourchannel">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=flat" alt="YouTube">
+  </a>
+</p>
+
 
 ---
 
