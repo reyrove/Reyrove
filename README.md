@@ -127,7 +127,7 @@ Feel free to reach out for collaborations, commissions, or inquiries.
 <h2>✨ Stay Connected</h2>
 
 <p align="center">
-  <a href="https://github.com/reyrove">
+  <a href="https://github.com/reyrove" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
   <a href="https://www.linkedin.com/in/reyhaneh-daneshdoost-730481160">
@@ -140,12 +140,6 @@ Feel free to reach out for collaborations, commissions, or inquiries.
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
   </a>
 </p>
-
-<style>
-  .social-links a {
-    text-decoration: none; /* Remove blue lines (underlines) */
-  }
-</style>
 
 ---
 
