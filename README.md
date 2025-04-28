@@ -37,7 +37,6 @@
 With expertise spanning <strong>Polymer Science</strong>, <strong>Molecular Dynamics (LAMMPS)</strong>, <strong>FORTRAN</strong>, and <strong>Web3 technologies</strong>, Reyrove approaches each project with a blend of technical rigor and artistic flair.
 </p>
 
-
 <h2>🤨 Why Choose Reyrove?</h2>
 
 <p>
@@ -49,7 +48,7 @@ If you value <strong>creativity, technical excellence, and forward-thinking desi
 </p>
 
 
-<h2 id="portfolio-highlights">🍽️ Portfolio Highlights</h2>
+<h2>🍽️ Portfolio Highlights</h2>
 
 <ul>
   <li>✨ <strong>Generative Art & NFTs</strong><br>
@@ -117,8 +116,6 @@ Thank you for supporting open innovation! 💖
       <img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=flat" alt="YouTube">
    </a>
 </p>
-
-
 
 <p align="center">
   <em>"Creativity fuels innovation. Code is the canvas." — Reyrove</em>
