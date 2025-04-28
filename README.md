@@ -3,7 +3,7 @@
 <p align="center"><em>Where science, art, and tech collide in neon glory.</em></p>
 
 <p align="center">
-  <img src="images/Reyrove-QR.png" alt="Reyrove's Portfolio QR Code" width="220" height="220"><br>
+  <img src="images/QR.png" alt="Reyrove's Portfolio QR Code" width="220" height="220"><br>
   <i>✨ Scan to jump straight into Reyrove’s neon universe ✨</i>
 </p>
 
