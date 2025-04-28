@@ -14,8 +14,6 @@
   <img src="https://img.shields.io/badge/Made_with-Love-%23ff69b4" alt="Tech Badge">
 </p>
 
----
-
 <h2 align="center">📚 Table of Contents</h2>
 
 <p align="center">
@@ -28,7 +26,6 @@
   <a href="#-stay-connected">Stay Connected</a>
 </p>
 
----
 
 <h2>🤔 Who is Reyrove?</h2>
 
@@ -47,7 +44,6 @@
 With expertise spanning <strong>Polymer Science</strong>, <strong>Molecular Dynamics (LAMMPS)</strong>, <strong>FORTRAN</strong>, and <strong>Web3 technologies</strong>, Reyrove approaches each project with a blend of technical rigor and artistic flair.
 </p>
 
----
 
 <h2>🤨 Why Choose Reyrove?</h2>
 
@@ -59,7 +55,6 @@ Innovation meets impact. Whether you’re seeking <strong>next-generation genera
 If you value <strong>creativity, technical excellence, and forward-thinking design</strong> — you're in the right place.
 </p>
 
----
 
 <h2>🍽️ Portfolio Highlights</h2>
 
@@ -77,7 +72,6 @@ If you value <strong>creativity, technical excellence, and forward-thinking desi
   Advanced modeling and simulations with <strong>LAMMPS</strong> — pushing the boundaries of material science.</li>
 </ul>
 
----
 
 <h2>🤝 Collaboration</h2>
 
