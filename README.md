@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-   <a href="mailto:reyhanehdaneshdoost@gmail.com">
+   <a href="mailto:reyhanehdaneshdoost@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat" alt="Email">
    </a>
    <a href="https://github.com/reyrove" target="_blank">
@@ -18,12 +18,13 @@
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat" alt="LinkedIn">
    </a>
    <a href="https://x.com/reyrove" target="_blank">
-      <img src="https://img.shields.io/twitter/follow/reyrove?style=social" alt="Twitter Follow">
+      <img src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white&style=flat" alt="X (Twitter)">
    </a>
    <a href="https://www.youtube.com/@freyjafa" target="_blank">
       <img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=flat" alt="YouTube">
    </a>
 </p>
+
 
 
 <h2 align="center">📚 Table of Contents</h2>
