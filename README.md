@@ -127,10 +127,6 @@ Feel free to reach out for collaborations, commissions, or inquiries.
 <h2 align="center">✨ Stay Connected</h2>
 
 <p align="center">
-  <a href="https://github.com/reyrove">
-<h2 align="center">✨ Stay Connected</h2>
-
-<p align="center">
   <a href="https://github.com/reyrove" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40">
   </a>
