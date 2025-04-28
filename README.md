@@ -1,7 +1,6 @@
-<p align="center"> # 👑 REYROVE'S WORLD 💗  </p>
+<h1 align="center">👑 REYROVE'S WORLD 💗</h1>
 
-<p align="center"> _Where science, art, and tech collide in neon glory._
-</p>
+<p align="center"><em>Where science, art, and tech collide in neon glory.</em></p>
 
 <p align="center">
   <img src="images/Reyrove-QR.png" alt="Reyrove's Portfolio QR Code" width="220" height="220">
