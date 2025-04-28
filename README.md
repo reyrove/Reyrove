@@ -8,11 +8,23 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/reyrove?style=social" alt="GitHub followers">
-  <img src="https://img.shields.io/github/stars/reyrove?style=social" alt="GitHub stars">
-  <img src="https://img.shields.io/twitter/follow/reyrove?style=social" alt="Twitter Follow">
-  <img src="https://img.shields.io/badge/Made_with-Love-%23ff69b4" alt="Tech Badge">
+   <a href="mailto:reyhanehdaneshdoost@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat" alt="Email">
+   </a>
+   <a href="https://github.com/reyrove" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat" alt="GitHub">
+   </a>
+   <a href="https://www.linkedin.com/in/reyhaneh-daneshdoost-730481160/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat" alt="LinkedIn">
+   </a>
+   <a href="https://x.com/reyrove" target="_blank">
+      <img src="https://img.shields.io/twitter/follow/reyrove?style=social" alt="Twitter Follow">
+   </a>
+   <a href="https://www.youtube.com/@freyjafa" target="_blank">
+      <img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=flat" alt="YouTube">
+   </a>
 </p>
+
 
 <h2 align="center">📚 Table of Contents</h2>
 
