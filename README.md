@@ -49,7 +49,7 @@ If you value <strong>creativity, technical excellence, and forward-thinking desi
 </p>
 
 
-<h2>🍽️ Portfolio Highlights</h2>
+<h2 id="portfolio-highlights">🍽️ Portfolio Highlights</h2>
 
 <ul>
   <li>✨ <strong>Generative Art & NFTs</strong><br>
