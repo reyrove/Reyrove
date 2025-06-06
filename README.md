@@ -27,7 +27,7 @@ const reyrove = {
 | ---------------------- | ---------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 🎵 AI Music Generation | Making algorithms sing (better than shower concerts) | [🎧 Listen](https://www.udio.com/creators/reyrove)                                                                                                   |
 | 🕷️ Sparrow Hawk AI    | Your passive-aggressive coding tutor                 | [💬 Chat](https://cdn.botpress.cloud/webchat/v2.2/shareable.html?configUrl=https://files.bpcontent.cloud/2025/01/06/17/20250106173117-8TRE5XWM.json) |
-| 🧶 Textile Tools       | For when you need to calculate yarn twist at 3AM     | [🧮 Calculate](textile/textile.html)                                                                                                                 |
+| 🧶 Textile Tools       | For when you need to calculate yarn twist at 3AM     | [🧮 Calculate](textile.html)                                                                                                                 |
 | 🖼️ Generative Art     | NFTs that don't look like bored apes                 | [🖌️ View](https://www.fxhash.xyz/u/reyrove)                                                                                                         |
 ---
 
