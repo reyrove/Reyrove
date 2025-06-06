@@ -67,6 +67,19 @@ if (profilePic) {
   });
 }
 
+modal.addEventListener('click', (event) => {
+  if (event.target === modal) {
+    closeModal();
+  }
+});
+
+document.addEventListener('keydown', (event) => {
+  if (event.key === 'Escape') {
+    closeModal();
+  }
+});
+
+// Back to Top Button functionality
 document.addEventListener("DOMContentLoaded", function () {
   const backToTopButton = document.getElementById('backToTop');
 
