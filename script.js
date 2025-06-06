@@ -33,27 +33,41 @@ const quotes = [
   { text: "Transformation requires courage—the courage to let go of the familiar and embrace the unknown.", author: "Reyrove" }
 ];
 
+function showRandomQuote() {
+  const randomIndex = Math.floor(Math.random() * quotes.length);
+  modalText.innerHTML = `${quotes[randomIndex].text}<br><span style="font-style: italic; font-size: 0.7em; margin-top: 10px; display: block;">— ${quotes[randomIndex].author}</span>`;
+  modal.style.display = 'flex';
+  document.body.style.overflow = 'hidden'; 
+}
+
 const modal = document.createElement('div');
 modal.classList.add('modal-overlay');
+modal.style.display = 'none'; 
 
 const popup = document.createElement('div');
 popup.classList.add('modal-popup');
 
 const modalText = document.createElement('p');
-
 popup.appendChild(modalText);
 modal.appendChild(popup);
 document.body.appendChild(modal);
 
-function showRandomQuote() {
-  const randomIndex = Math.floor(Math.random() * quotes.length);
-  modalText.innerHTML = `${quotes[randomIndex].text}<br><span style="font-style: italic; font-size: 0.7em; margin-top: 10px; display: block;">— ${quotes[randomIndex].author}</span>`;
-  modal.style.display = 'flex';
-}
-
 function closeModal() {
   modal.style.display = 'none';
+  document.body.style.overflow = 'auto'; 
 }
+
+modal.addEventListener('click', (e) => {
+  if (e.target === modal) {
+    closeModal();
+  }
+});
+
+document.addEventListener('keydown', (e) => {
+  if (e.key === 'Escape' && modal.style.display === 'flex') {
+    closeModal();
+  }
+});
 
 if (profilePic) {
   profilePic.addEventListener('click', showRandomQuote);
@@ -73,13 +87,6 @@ modal.addEventListener('click', (event) => {
   }
 });
 
-document.addEventListener('keydown', (event) => {
-  if (event.key === 'Escape') {
-    closeModal();
-  }
-});
-
-// Back to Top Button functionality
 document.addEventListener("DOMContentLoaded", function () {
   const backToTopButton = document.getElementById('backToTop');
 
@@ -95,5 +102,5 @@ document.addEventListener("DOMContentLoaded", function () {
   });
 
   window.addEventListener('scroll', updateButtonVisibility);
-  updateButtonVisibility(); 
+  updateButtonVisibility();
 });
