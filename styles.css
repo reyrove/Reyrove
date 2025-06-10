@@ -490,26 +490,20 @@ a.project-link:hover .project-card {
 
 #backToTop {
   position: fixed;
-  bottom: 30px;
-  right: 30px;
+  bottom: 23px;
+  left: 30px;
   width: 60px;
   height: 60px;
-  background: #fbc531;
-  border: none;
-  border-radius: 50%;
   cursor: pointer;
-  display: flex;
   justify-content: center;
   align-items: center;
   z-index: 99;
   opacity: 0;
+  background: transparent; 
+  border: none;
   transform: translateY(20px) scale(0.95);
-  transition: all 0.3s ease;
-  color: #2c2c54;
   font-family: 'Orbitron', 'Segoe UI', sans-serif;
-  box-shadow:
-    0 0 10px rgba(251, 197, 49, 0.6),
-    0 0 18px rgba(251, 197, 49, 0.4);
+  color: #ffff00;
 }
 
 #backToTop.visible {
@@ -518,29 +512,26 @@ a.project-link:hover .project-card {
 }
 
 #backToTop:hover {
-  background: #9b59b6; 
-  box-shadow:
-    0 0 12px rgba(155, 89, 182, 0.7),
-    0 0 22px rgba(142, 68, 173, 0.6);
   transform: scale(1.08);
 }
 
 #backToTop:active {
-  background: #a32b11;
   transform: scale(0.92);
 }
 
 #backToTop i {
   font-size: 28px;
-  transition: transform 0.3s ease;
-  text-shadow: 0 0 6px rgba(44, 44, 84, 0.7);
+  transition: transform 0.3s ease, color 0.3s ease;
+  text-shadow:
+    0 0 6px #ffff00,
+    0 0 12px #ffd700;
 }
 
 @media (hover: none) and (pointer: coarse) {
   #backToTop {
     width: 68px;
     height: 68px;
-    bottom: 25px;
+    bottom: 50px;
     right: 25px;
   }
 
